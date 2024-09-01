@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anarnsu.github.io/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/app/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/assets/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/css/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/includes/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/item/sitemap.html.gz
+Sitemap: https://anarnsu.github.io/src/sitemap.html.gz
